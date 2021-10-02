@@ -21,6 +21,10 @@ Here are 3 quick and painless ways to contribute to this project:
 * Add your name to the `Profile.md` file
 * There are various sections like CP , Development , Interview etc , Add valuable resources
 
+# Who can participate in Hacktoberfest?
+Hacktoberfest is open to everyone in our global community! 
+How to participate? 
+You just need to make five contributions to open source before October 31 and can receive a free Hacktoberfest t-shirt.
 
 # For Beginners
 1) Visit & Learn 
